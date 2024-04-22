@@ -5,5 +5,5 @@ Group Number: 02
 
 Problem Assigned: Problem A
 
-Group Members:
+Group Members:Hongyu Qu, Zewei Yu, Yihui Ren
 
